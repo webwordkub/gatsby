@@ -329,7 +329,7 @@ exports.sourceNodes = async (
   }
 
   const processingActivity = reporter.activityTimer(
-    `Contentful: Proccess data (${sourceId})`,
+    `Contentful: Process data (${sourceId})`,
     {
       parentSpan,
     }
