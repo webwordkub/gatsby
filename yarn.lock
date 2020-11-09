@@ -3879,12 +3879,7 @@
   dependencies:
     "@types/lodash" "*"
 
-"@types/lodash@*", "@types/lodash@^4.14.92":
-  version "4.14.164"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.164.tgz#52348bcf909ac7b4c1bcbeda5c23135176e5dfa0"
-  integrity sha512-fXCEmONnrtbYUc5014avwBeMdhHHO8YJCkOBflUL9EoJBSKZ1dei+VO74fA7JkTHZ1GvZack2TyIw5U+1lT8jg==
-
-"@types/lodash@^4.14.165":
+"@types/lodash@*", "@types/lodash@^4.14.165", "@types/lodash@^4.14.92":
   version "4.14.165"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.165.tgz#74d55d947452e2de0742bad65270433b63a8c30f"
   integrity sha512-tjSSOTHhI5mCHTy/OOXYIhi2Wt1qcbHmuXD1Ha7q70CgI/I71afO4XtLb/cVexki1oVYchpul/TOuu3Arcdxrg==
@@ -4001,10 +3996,10 @@
     "@types/history" "*"
     "@types/react" "*"
 
-"@types/react-dom@*", "@types/react-dom@^16.9.8":
-  version "16.9.8"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.9.8.tgz#fe4c1e11dfc67155733dfa6aa65108b4971cb423"
-  integrity sha512-ykkPQ+5nFknnlU6lDd947WbQ6TE3NNzbQAkInC2EKY1qeYdTKp7onFusmYZb+ityzx2YviqT6BXSu+LyWWJwcA==
+"@types/react-dom@*", "@types/react-dom@^16.9.9":
+  version "16.9.9"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.9.9.tgz#d2d0a6f720a0206369ccbefff752ba37b9583136"
+  integrity sha512-jE16FNWO3Logq/Lf+yvEAjKzhpST/Eac8EMd1i4dgZdMczfgqC8EjpxwNgEe3SExHYLliabXDh9DEhhqnlXJhg==
   dependencies:
     "@types/react" "*"
 
@@ -4226,19 +4221,7 @@
   dependencies:
     "@types/webpack" "*"
 
-"@types/webpack@*":
-  version "4.41.23"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.41.23.tgz#1925f42a7325be4ae0fce38329f1cc27768fcda7"
-  integrity sha512-ojA4CupZg8RCzVJLugWlvqrHpT59GWhqFxbinlsnvk10MjQCWB+ot7XDACctbWhnhtdhYK7+HOH1JxkVLiZhMg==
-  dependencies:
-    "@types/anymatch" "*"
-    "@types/node" "*"
-    "@types/tapable" "*"
-    "@types/uglify-js" "*"
-    "@types/webpack-sources" "*"
-    source-map "^0.6.0"
-
-"@types/webpack@^4.41.24":
+"@types/webpack@*", "@types/webpack@^4.41.24":
   version "4.41.24"
   resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.41.24.tgz#75b664abe3d5bcfe54e64313ca3b43e498550422"
   integrity sha512-1A0MXPwZiMOD3DPMuOKUKcpkdPo8Lq33UGggZ7xio6wJ/jV1dAu5cXDrOfGDnldUroPIRLsr/DT43/GqOA4RFQ==
